@@ -8,7 +8,7 @@
 
 语法为:
 
-<center>bd [[fromLang=auto]>toLang=zh] word</center>
+<h2 align="center">bd [[fromLang=auto]>toLang=zh] word</h2>
 
 默认fromLang为auto, 注意toLang不能设置为auto。
 

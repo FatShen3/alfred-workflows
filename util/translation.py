@@ -25,13 +25,16 @@ def fanyi (q, wf):
     appid = KEY_DATA['fanyi_appid']
     secretKey = KEY_DATA["fanyi_secretKey"]
 
-    fromLang = 'en'
+    fromLang = 'auto'
     toLang = 'zh'
-    matchObj = re.match(r'((\S+)>(\S+) )?(.*)', q)
+    matchObj = re.match(r'((\S+)?>(\S+) )?(.*)', q)
     if matchObj:
         groups = matchObj.groups()
-        if groups[1] and groups[2]: # 自定义了语言来源
-            fromLang, toLang = groups[1], groups[2]
+        # 自定义了语言来源
+        if groups[1]: 
+            fromLang = groups[2]
+        if groups[2]:
+            toLang = groups[2]
         q = groups[3]
     httpClient = None
     salt = random.randint(32768, 65536)
