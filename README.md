@@ -30,7 +30,8 @@ i.e:
 
 ### 支持语言
 
-|简写|语言|
+| 简写 | 语言 |
+| -----  | -----  |
 |auto|自动识别|
 |zh|中文|
 |en|英语|
@@ -60,12 +61,6 @@ i.e:
 |hu|匈牙利语|
 |cht|繁体中文|
 |vie|越南语|
-
-|Tables         | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
 
 ## en
 
