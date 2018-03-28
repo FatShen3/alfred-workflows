@@ -33,7 +33,7 @@ i.e:
 |简写|语言|
 |auto|自动识别|
 |zh|中文|
-|en	|英语|
+|en|英语|
 |yue|粤语|
 |wyw|文言文|
 |jp	|日语|
@@ -61,7 +61,11 @@ i.e:
 |cht|繁体中文|
 |vie|越南语|
 
-
+|Tables         | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 ## en
 
