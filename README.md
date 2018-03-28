@@ -1,4 +1,4 @@
-#alfred workflow tools
+# alfred workflow tools
 
 This is a alfred workflow tool for coding work in some way. :smile:
 
@@ -12,9 +12,9 @@ The syntax is:
 
 i.e: 
 
-![]()
+![](https://github.com/FatShen3/alfred-workflows/blob/master/markdown-images/1.jpg)
 
-
+![](https://github.com/FatShen3/alfred-workflows/blob/master/markdown-images/2.jpg)
 
 
 Press enter to open url in baidu translation.
@@ -36,3 +36,5 @@ Encode the word, and press enter to copy to clipboard. The below command are sup
 * sha1
 
 i.e: 
+
+![](https://github.com/FatShen3/alfred-workflows/blob/master/markdown-images/3.jpg)
