@@ -2,6 +2,8 @@
 
 一个工作中用到的快速查询alfred小工具，以后需要什么就添加什么. :smile:
 
+[点我下载](https://github.com/FatShen3/alfred-workflows/releases)
+
 ## bd
 
 使用[百度翻译](http://api.fanyi.baidu.com/api/trans/product/index). 默认翻译是从auto到en, 也可以自定义翻译语言。
