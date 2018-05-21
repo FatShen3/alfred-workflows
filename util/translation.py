@@ -32,7 +32,7 @@ def fanyi (q, wf):
         groups = matchObj.groups()
         # 自定义了语言来源
         if groups[1]: 
-            fromLang = groups[2]
+            fromLang = groups[1]
         if groups[2]:
             toLang = groups[2]
         q = groups[3]
